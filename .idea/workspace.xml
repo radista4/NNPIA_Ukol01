@@ -28,6 +28,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -46,6 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -81,6 +85,7 @@
       <updated>1586514916699</updated>
       <workItem from="1586514920024" duration="1873000" />
       <workItem from="1586519393613" duration="11320000" />
+      <workItem from="1586531747325" duration="39000" />
     </task>
     <servers />
   </component>
@@ -96,22 +101,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="399" y="212" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1586529899680" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1586531206295">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1586531785991">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586531206295" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1586531206294">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586531785991" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1586531785990">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586531206294" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1586531206294">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586531785990" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1586531785990">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586531206294" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1586531206295">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586531785990" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1586531785990">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586531206295" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586531785990" />
     <state x="0" y="87" key="IDE.errors.dialog" timestamp="1586526810094">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
